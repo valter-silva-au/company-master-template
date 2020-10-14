@@ -1,6 +1,5 @@
 logo:
   label: Logo
-  theme: work
   url: https://via.placeholder.com/512x128?text=Company+Logo+URL
 app:
   name: Application
