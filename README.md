@@ -1,1 +1,0 @@
-# company-master-template
